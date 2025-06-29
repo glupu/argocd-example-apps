@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  test: "true"
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: guestbook-cm-2
